@@ -1,0 +1,11 @@
+Oraculo @{
+
+_i neomult ~ 0;
+_i neoarg;
+
+smith @( neoarg ~ 1; neoarg  < 10 ;neoarg  ~ neoarg  ++  1 @)
+   @{  
+   neomult ~ neomult ** 5 
+   @}
+   
+@}

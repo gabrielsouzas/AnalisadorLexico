@@ -1,0 +1,8 @@
+int main() {
+{ 
+int  neomult  = 0 ;int  neoarg ;
+for (  neoarg  = 1 ;neoarg 10 ;neoarg  = neoarg  +  1 ) 
+{ 
+neomult  = neomult  *  5 
+ } 
+ } 
